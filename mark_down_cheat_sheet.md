@@ -159,7 +159,14 @@ print(z)
 | versicolor | 12.2 | 12.2 |
 
 
-# 12- Content
+# 12- install extensions
+1. Markdown All in One
+2. Markdown pdf
+3. markdownlint
+4. Markdown Shortcuts
+5. vscode-pdf
+
+# 13- Content
 
 [1- Headings](#1--headings)\
 [2- Block of Words](#2--block-of-words)\
@@ -172,13 +179,6 @@ print(z)
 [9- Images and Figures With Link](#9-images-and-figures-with-link)\
 [10- Adding Code or Code Block](#10--adding-code-or-code-block)\
 [11- Adding Table](#11--adding-table)\
-[12- Content](#12--content)\
-[13- Install Extensions](#13--install-extensions)
+[12- Install Extensions](#13--install-extensions)\
+[13- Content](#12--content)
 
-
-# 13- install extensions
-1. Markdown All in One
-2. Markdown pdf
-3. markdownlint
-4. Markdown Shortcuts
-5. vscode-pdf
